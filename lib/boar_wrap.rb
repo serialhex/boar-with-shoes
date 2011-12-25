@@ -3,31 +3,35 @@
 # it has become a class...  because they're cooler
 
 require 'rubypython'
+require 'green_shoes'
 require 'pry'
 
+require_relative 'repo'
+require_relative 'common'
+
 class BoarWrap
+  include Common
+
+  def self.open dir
+    self.new dir
+  rescue Exception => e
+    # i know there is a better way to do this...
+    # anybody want to buy me a copy of Exceptional Ruby?? :D
+    #alert "we encountered errors :'(\n#{e}"
+    return e
+  end
+
   def initialize repo, create = false
-    run_python repo
-    binding.pry
+    sys 'boar'
+    @repo = RepoWrap.new repo, create
+    pyfront = RubyPython.import('front')
+    @front = pyfront.Front.new(@repo.repo)
   end
 
-  def run_python method, *args, &block
-    dir = File.dirname(__FILE__)
-    # change hardcoded python2.7
-    RubyPython.run(:python_exe => 'python2.7') do
-      sys = RubyPython.import 'sys'
-      sys.path.append File.join(dir, 'boar')
-      sys.path.append File.join(dir, 'boar/blobrepo')
-      pyrepo = RubyPython.import('repository')
-      pyrepo.create_repository(repo) if create
-      @repo = pyrepo.Repo.new repo
-      pyfront = RubyPython.import('front')
-      @front = pyfront.Front.new(@repo)
-    end
+  attr_reader :repo
+
+  def method_missing m, *args, &block
+    @front.send m, *args, &block
+    super
   end
-end
-
-
-if __FILE__ == $0
-  foo = BoarWrap.new "/home/serialhex/src/boar_with_sneakers/test/foo", false
 end

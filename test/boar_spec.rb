@@ -3,11 +3,11 @@ require_relative '../lib/boar_wrap'
 
 describe BoarWrap do
   before do
-    
+    #RubyPython.start(:python_exe => 'python2.7')
   end
 
   after do
-    #stuff
+    #RubyPython.stop
   end
 
   describe "when " do
