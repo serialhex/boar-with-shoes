@@ -5,6 +5,8 @@ pythonexec.rb
 24:    elsif @realname =~ /#{@version}$/
 25:      @realname = "#{@python}"
 
+make CorruptoionError class to catch bad repos!!!
+
 ## ci
 Syntax: boar ci [-m "log message"] [--add-only]
 

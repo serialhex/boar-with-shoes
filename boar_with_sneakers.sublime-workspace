@@ -1,0 +1,507 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sneaker_boar.rb",
+			"settings":
+			{
+				"buffer_size": 1237,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/help.rb",
+			"settings":
+			{
+				"buffer_size": 63,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/boar_wrap.rb",
+			"settings":
+			{
+				"buffer_size": 758,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/repo.rb",
+			"settings":
+			{
+				"buffer_size": 812,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/common.rb",
+			"settings":
+			{
+				"buffer_size": 193,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test/boar_spec.rb",
+			"settings":
+			{
+				"buffer_size": 390,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "notes.md",
+			"settings":
+			{
+				"buffer_size": 7196,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/serialhex/.config/sublime-text-2/Packages/User/Base File.sublime-settings",
+		"/home/serialhex/.config/sublime-text-2/Packages/User/gshoes.sublime-build",
+		"/home/serialhex/src/boar_with_sneakers/test.rb",
+		"/home/serialhex/.rvm/gems/ruby-1.9.3-p0/gems/ffi-1.0.11/lib/ffi/library.rb",
+		"/home/serialhex/.rvm/gems/ruby-1.9.3-p0/gems/rubypython-0.5.3/lib/rubypython/pythonexec.rb",
+		"/home/serialhex/src/boar_with_sneakers/boar_wrap.rb",
+		"/home/serialhex/src/boar_with_sneakers/lib/boar/boar",
+		"/home/serialhex/src/boar_with_sneakers/LICENSE",
+		"/home/serialhex/src/boar_with_sneakers/lib/boar/boar.bat",
+		"/home/serialhex/src/boar_with_sneakers/lib/python/boar/front.py",
+		"/home/serialhex/src/boar_with_sneakers/test",
+		"/home/serialhex/.config/sublime-text-2/Packages/User/Plain text.sublime-settings",
+		"/home/serialhex/src/megan/filesink/spec/helper.rb",
+		"/home/serialhex/src/megan/filesink/spec/tst/a.png",
+		"/home/serialhex/src/megan/filesink/lib/filesink/version.rb",
+		"/home/serialhex/src/filesink/lib/filesink/version.rb",
+		"/home/serialhex/src/megan/filesink/README.md",
+		"/home/serialhex/src/megan/filesink/Rakefile",
+		"/home/serialhex/src/megan/filesink/spec/spec.rb",
+		"/home/serialhex/src/teech/ship.rb",
+		"/home/serialhex/src/teech/01.rb",
+		"/home/serialhex/nano.save",
+		"/home/serialhex/read",
+		"/home/serialhex/nano.save.1",
+		"/home/serialhex/python2.7",
+		"/home/serialhex/src/megan/filesink/spec/test.rb",
+		"/home/serialhex/src/megan/filesink/lib/boar.rb",
+		"/home/serialhex/src/megan/filesink/sinkgui.rb",
+		"/home/serialhex/src/megan/filesink/sink.rb",
+		"/home/serialhex/src/megan/filesink/test/test.rb",
+		"/home/serialhex/src/megan/filesink/boar.rb",
+		"/home/serialhex/src/meta.rb",
+		"/home/serialhex/src/megan/filesink/monkey.rb",
+		"/home/serialhex/src/megan/filesink/monkey.rm",
+		"/home/serialhex/src/shogun/examples/undocumented/ruby_modular/features_read_svmlight_format_modular.rb",
+		"/home/serialhex/virt/ReactOS-0.3.13-QEMU/Readme.txt",
+		"/home/serialhex/src/cop2000/11-11-17/c-str.cpp",
+		"/home/serialhex/.config/sublime-text-2/Packages/User/C++.sublime-settings",
+		"/home/serialhex/src/cop2000/11-11-17/notes.md",
+		"/home/serialhex/src/cop2000/11-12-01/notes.ms",
+		"/media/EBC0-F348/COP2000/My Copy/CPAS10/a10.cpp",
+		"/home/serialhex/.config/sublime-text-2/Packages/Default/Base File.sublime-settings",
+		"/home/serialhex/src/cop2000/assignment_9/a9.cpp",
+		"/home/serialhex/Downloads/desura/README",
+		"/home/serialhex/src/cop2000/11-11-10/notes.md",
+		"/home/serialhex/src/cop2000/11-11-10/pointers.cpp",
+		"/home/serialhex/src/cop2000/11-11-10/vectors.cpp",
+		"/home/serialhex/src/cop2000/11-11-10/array.cpp",
+		"/home/serialhex/src/cop2000/11-11-10/pointers.cpp\\",
+		"/home/serialhex/src/cop2000/scaffolding.cpp",
+		"/home/serialhex/src/cop2000/11-11-03/array.cpp",
+		"/home/serialhex/src/cop2000/assignment_8/a8.txt",
+		"/home/serialhex/src/cop2000/assignment_8/A8_Data Tracing Chart and Test Softcopy.txt",
+		"/home/serialhex/src/cop2000/assignment_2/a2.cpp",
+		"/home/serialhex/src/cop2000/11-11-03/notes.md",
+		"/home/serialhex/src/cop2000/assignment_7/a7.cpp",
+		"/home/serialhex/src/cop2000/assignment_8/a7.txt",
+		"/home/serialhex/src/99_bottles/cpp.cpp",
+		"/home/serialhex/src/99_bottles/assembler.asm",
+		"/home/serialhex/src/cop2000/11-10-27/ternary_op.cpp",
+		"/home/serialhex/src/cop2000/11-10-27/beep.cpp",
+		"/home/serialhex/src/cop2000/11-10-27/round.cpp",
+		"/home/serialhex/src/cop2000/11-10-27/func_stuff.cpp",
+		"/home/serialhex/src/cop2000/11-10-27/notes.md",
+		"/home/serialhex/src/shogun/src/Makefile",
+		"/home/serialhex/src/shogun/src/configure",
+		"/home/serialhex/src/cop2000/11-10-06/flowchart.cpp",
+		"/home/serialhex/src/cop2000/11-10-06/test.cpp",
+		"/home/serialhex/src/global_quine.rb",
+		"/home/serialhex/src/cop2000/11-10-06/file.cpp",
+		"/home/serialhex/src/cop2000/11-10-06/notes.md",
+		"/home/serialhex/src/quinemas2010.rb",
+		"/home/serialhex/src/cop2000/11-10-06/quine.hs",
+		"/home/serialhex/src/eng1101/fall2011-1101-Web.rtf",
+		"/home/serialhex/src/cop2000/11-09-29/calendar.cpp",
+		"/home/serialhex/src/cop2000/assignment_2/a2.5.rb",
+		"/home/serialhex/src/cop2000/assignment_5/a5_work.txt",
+		"/home/serialhex/src/cop2000/assignment_5/a5_prob.md",
+		"/home/serialhex/src/cop2000/11-09-29/leading_decision.cpp",
+		"/home/serialhex/src/cop2000/11-09-29/files.cpp",
+		"/home/serialhex/src/cop2000/11-09-29/trailing_dec.cpp",
+		"/home/serialhex/src/cop2000/11-09-29/notes.md",
+		"/home/serialhex/src/cop2000/11-09-29/stuff.cpp",
+		"/home/serialhex/src/cop2000/assignment_4/a4.cpp",
+		"/home/serialhex/src/cop2000/11-09-22/notes.md",
+		"/home/serialhex/src/cop2000/11-09-22/leading _loop.cpp",
+		"/home/serialhex/src/cop2000/11-09-22/trailing_loop.cpp",
+		"/home/serialhex/src/cop2000/11-09-15/notes.md",
+		"/home/serialhex/src/cop2000/11-09-15/control.cpp",
+		"/home/serialhex/.config/sublime-text-2/Packages/User/Markdown.sublime-settings",
+		"/home/serialhex/src/cis1000/chapter_01/computer_literacy.md",
+		"/home/serialhex/src/cop2000/11-09-08/notes.md",
+		"/home/serialhex/src/cop2000/11-09-08/practice.cpp",
+		"/home/serialhex/src/cop2000/11-09-15/test.cpp",
+		"/home/serialhex/Documents/John/Program 4.cpp",
+		"/home/serialhex/Documents/John/ProgExamp.cpp",
+		"/home/serialhex/src/misc/Tau.hs",
+		"/home/serialhex/.rvm/gems/ruby-1.9.2-p290/gems/cairo-1.10.0/ext/cairo/rb_cairo.h",
+		"/home/serialhex/.rvm/vm",
+		"/home/serialhex/src/cop2000/assignment_2/m_to_ft.cpp",
+		"/home/serialhex/src/cop2000/11-09-01/practice.cpp",
+		"/home/serialhex/src/cop2000/assignment_1/assignment-1.md",
+		"/home/serialhex/src/cop2000/assignment_1/pseudocode.rb",
+		"/home/serialhex/src/misc/float_prec.rb",
+		"/home/serialhex/src/cop2000/assignment_1/style.css",
+		"/home/serialhex/src/cop2000/assignment_1/code.css",
+		"/home/serialhex/src/cop2000/assignment_1/variables_n_constants.md",
+		"/home/serialhex/src/cop2000/assignment_1/sample_softcopy.md",
+		"/home/serialhex/src/cop2000/assignment_1/problem_statement.md",
+		"/home/serialhex/src/cop2000/assignment_1/pseudocode.md",
+		"/home/serialhex/src/cop2000/assignment_1/tmp",
+		"/home/serialhex/src/cop2000/assignment_1/variable_lists.md",
+		"/home/serialhex/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/serialhex/.config/sublime-text-2/Packages/Default/Global.sublime-settings",
+		"/home/serialhex/.config/sublime-text-2/Packages/User/Global.sublime-settings",
+		"/home/serialhex/src/cop2000/11-09-01/notes.md",
+		"/home/serialhex/src/cop2000/README.md",
+		"/home/serialhex/src/cop2000/11-09-01/sales.cpp"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"true",
+			"repository",
+			"shear",
+			"tmp",
+			"c"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"cstr",
+			"FIRST",
+			"i"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sneaker_boar.rb",
+					"settings":
+					{
+						"buffer_size": 1237,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								143,
+								143
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 60.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lib/help.rb",
+					"settings":
+					{
+						"buffer_size": 63,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								63,
+								63
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lib/boar_wrap.rb",
+					"settings":
+					{
+						"buffer_size": 758,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								283,
+								274
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "lib/repo.rb",
+					"settings":
+					{
+						"buffer_size": 812,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								569,
+								569
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 120.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "lib/common.rb",
+					"settings":
+					{
+						"buffer_size": 193,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "test/boar_spec.rb",
+					"settings":
+					{
+						"buffer_size": 390,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								170,
+								170
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "notes.md",
+					"settings":
+					{
+						"buffer_size": 7196,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								208,
+								208
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 147.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true
+}

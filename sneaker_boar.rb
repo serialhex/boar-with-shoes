@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby????
 
 require "rubypython"
+require 'pry'
 require 'green_shoes'
 require_relative 'lib/help'
 require_relative 'lib/boar_wrap'
@@ -21,6 +22,7 @@ Shoes.app title: "Boar with Sneakers", width: 800, height: 600 do
     background m_purple..m_blue
 
     button("Open Repo"){
+      # yes, this block is too long...
       dir = ask_open_folder
       @boar = BoarWrap.open dir
       # yes, i am a cylon....
@@ -28,6 +30,7 @@ Shoes.app title: "Boar with Sneakers", width: 800, height: 600 do
         # Exceptional Ruby
         @writing.text = @boar
       else
+        binding.pry
         if @boar.to_s =~ /CorruptionError/
           # plase?
           if confirm "This dosn't seem to be a repo, make one?"
@@ -41,6 +44,9 @@ Shoes.app title: "Boar with Sneakers", width: 800, height: 600 do
     }
     button("blah"){
       # mo stuff
+    }
+    button("click me!!!"){
+      # moo?
     }
     button("HEEELLLLLLPPPPP!!!!!"){
       # plase?
